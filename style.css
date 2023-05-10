@@ -1,0 +1,194 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #E5E5E5;
+}
+.container{
+    position: absolute;
+    width: 720px;
+    height: 378px;
+    left: 0;
+    right: 0;
+    top: 343px;
+    margin: auto;
+    background:  #F1FAEE;
+}
+.title{
+position: absolute;
+width: 720px;
+height: 343px;
+left:0;
+right: 0;
+margin:0  auto;
+background: url(kyiv-image.png);
+}
+.title-name{
+position: relative;
+width: 201px;
+height: 34px;
+top: 122px;
+margin: 0 auto;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+text-align: center;
+color: #FFFFFF;
+background: #1D3557;
+border-radius: 10px;
+}
+.title-paragraph{
+position: relative;
+width: 412px;
+height: 52px;
+margin: 0 auto;
+top: 177px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 18.72px;
+line-height: 22px;
+text-align: center;
+padding-top: 5px;
+color: #FFFFFF;
+background: #457B9D;
+border-radius: 12px;
+}
+.main-title{
+position: relative;
+width: 439px;
+height: 20px;
+left: 140px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+color: #1D3557;
+}
+.img{
+    display: inline-flex;
+    flex-direction: row;
+    padding-left: 65px;
+    padding-right: 65px;
+    border-radius: 50%;
+}
+.img-logo{
+position: absolute;
+top: 180px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+color: #1D3557;
+}
+
+.p1{
+ width: 183px;
+ height: 32px;
+ left: 25px;
+}
+.p2{
+width: 162px;
+height: 35px;
+left: 268px;
+}
+
+.p3{
+width: 197px;
+height: 38px;
+left: 486px;
+}
+.img-text{
+position: absolute;
+width: 198px;
+height: 55px;
+top: 246px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+color: #1D3557;
+}
+.text1{
+height: 55px;
+left: 14px;
+}
+.text2{
+height: 54px;
+left: 255px;
+}
+.text3{
+height: 54px;
+left: 488px;
+}
+footer{
+position: absolute;
+width: 720px;
+height: 494px;
+left: 0px;
+right: 0;
+top: 721px;
+margin: 0 auto;
+background: #FFFFFF;
+}
+.footer{
+position: absolute;
+width:550px;
+height: 394px;
+left: 80px;
+top: 50px;
+background: #A8DADC;
+box-shadow: 0px 6px 0px #1D3557;
+border-radius: 10px;
+}
+.footer-img{
+position: absolute;
+width: 60%;
+height: 100%;
+margin: auto;
+background: url(me.jpg);
+border-radius: 10px;
+}
+.footer-title{
+position: absolute;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+color: #1D3557;
+}
+.foot1{
+width: 207px;
+height: 32px;
+left: 330px;
+top: 100px;
+}
+.foot2{
+width: 189px;
+height: 71px;
+left: 340px;
+top: 145px;
+font-size: 16px;
+font-weight: 400;
+line-height: 18px;
+
+}
+.foot3{
+width: 189px;
+height: 18px;
+left: 340px;
+top: 230px;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+
+}
